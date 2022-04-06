@@ -1,0 +1,39 @@
+
+.container{
+  width: 600px;
+  height: 600px;
+  display: grid;
+  z-index: 100;
+  border-color:black;
+  border: 5px solid;
+  background: rgb(240,255,240);
+  border-radius: 10px;
+  flex-direction: row;
+  margin-left: 320px;
+  
+}
+
+#newDiv{
+  border: 2px solid;
+  border-color: blue;
+}
+.title{
+  margin-left: 550px;
+}
+
+
+#button1{
+  margin-left: 350px;
+}
+
+#button2{
+  margin-left: 160px;
+}
+#button3{
+  margin-left: 190px;
+}
+
+
+
+
+  
